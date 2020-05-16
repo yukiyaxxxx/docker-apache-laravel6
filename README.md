@@ -15,7 +15,6 @@ As simple as possible.
 1. sh init.sh
 1. sh reset_db.sh
 
-## reset_db.sh
+## sh reset_db.sh
 
 Drop all data and run migration + seeding.
-
