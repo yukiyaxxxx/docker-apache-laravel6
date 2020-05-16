@@ -41,7 +41,6 @@ services:
       - "./htdocs:/var/www/html"
 
   phpmyadmin:
-    container_name: laravel_phpmyadmin
     image: phpmyadmin/phpmyadmin
     depends_on:
       - db

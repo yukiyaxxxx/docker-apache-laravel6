@@ -1,4 +1,4 @@
-docker-apache-laravel6.x
+docker-apache-laravel6
 ====
 
 Laravel6 clean installed on Docker.<br>
